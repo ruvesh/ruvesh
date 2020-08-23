@@ -13,4 +13,4 @@ I'm a Full Stack Software Engineer and Technology fanatic. I create awesome Webs
 * <a href="https://www.v-ruvesh.in/blog/" target="_blank" rel="noreferrer noopener"> My Blogs </a>
 
 
-<a href="https://www.v-ruvesh.in/" target="_blank" rel="noreferrer noopener"> v-ruvesh.in </a>
+<a href="https://www.v-ruvesh.in/" target="_blank" rel="noreferrer noopener"> www.v-ruvesh.in </a>
