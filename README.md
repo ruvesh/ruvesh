@@ -1,3 +1,4 @@
+<img src="https://github.com/ruvesh/ruvesh/blob/main/assets/profile.gif?raw=true" />
 
 # Hi I'm Ruvesh 
 
