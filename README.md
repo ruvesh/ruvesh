@@ -1,4 +1,4 @@
-![profile banner](/assets/profile.gif)
+<img src="/assets/profile.gif?raw=true" width="200px">
 
 # Hi I'm Ruvesh
 
